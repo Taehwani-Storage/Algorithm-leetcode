@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/0013-roman-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/1791-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
