@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Taehwani-Storage/Algorithm-leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
